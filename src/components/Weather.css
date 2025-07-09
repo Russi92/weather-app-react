@@ -163,7 +163,7 @@
   }
   
   /* ✅ تحسين للشاشات الصغيرة جدا */
-  @media (max-width: 400px) {
+  @media (max-width: 360px) {
     .temperature {
       font-size: 45px;
     }
